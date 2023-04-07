@@ -3,7 +3,7 @@ modulegraph==0.10.4
 numpy==1.22.0
 python-dateutil==1.5
 recaptcha-client==1.0.6
-redis==2.10.3
+redis==4.4.4
 scikit-learn==0.15.2
 scipy==0.15.1
 six==1.4.1
