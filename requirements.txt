@@ -7,4 +7,4 @@ redis==4.4.4
 scikit-learn==0.15.2
 scipy==0.15.1
 six==1.4.1
-tornado==4.1
+tornado==6.4.2
